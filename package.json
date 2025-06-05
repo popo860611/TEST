@@ -1,0 +1,8 @@
+{
+  "name": "health-automation",
+  "version": "1.0.0",
+  "description": "Automation script for health app using AutoHotkey",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0"
+  }
+}
