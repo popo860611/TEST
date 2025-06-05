@@ -1,0 +1,1 @@
+"""Inline Booking Bot package."""
